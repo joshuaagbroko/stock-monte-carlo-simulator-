@@ -8,7 +8,7 @@ A powerful web application that uses Monte Carlo simulation with Geometric Brown
 
 ## 🚀 **Live Demo**
 
-[Try the live application here](#) *(Add your deployed URL)*
+[Try the live application here](https://stock-monte-carlo-simulator.streamlit.app/) 
 
 ## 📊 **Features**
 
